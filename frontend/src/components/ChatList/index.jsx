@@ -47,7 +47,7 @@ function ChatList() {
           personId={item.id}
           name={item.name}
           email={item.email}
-          message="oi"
+          message=""
           userSelected={userSelected}
           setUserSelected={setUserSelected}
         />
