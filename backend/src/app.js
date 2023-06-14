@@ -15,7 +15,7 @@ class App {
     this.httpServer = createServer(this.server);
     this.io = new Server(this.httpServer, {
       cors: {
-        origin: "http://localhost:3000",
+        origin: "https://chatapponline.netlify.app",
         methods: ["GET", "POST", "PUT", "DELETE"],
         allowedHeaders: ["Content-Type", "authorization"],
       },
