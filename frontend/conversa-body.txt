@@ -1,0 +1,16 @@
+{
+	id_conversa: 1
+	users: [abc@email.com, cde@email.com]
+	messages: {
+		[
+			message: Oi Tudo bem,
+			data: 03 06 2023 20:59
+			user: abc@email.com
+		],
+		[
+			message: Tudo e vc?,
+			data: 03 06 2023 21:00
+			user: cde@email.com
+		],
+	}
+}

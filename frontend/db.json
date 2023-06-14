@@ -1,0 +1,55 @@
+{
+  "chats": [
+    {
+      "email": "eu@email.com",
+      "list": [
+        {
+          "user": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Profile_avatar_placeholder_large.png?20150327203541",
+          "name": "Mãe",
+          "email": "mae@email.com",
+          "messages": [
+            {
+              "text": "Oi",
+              "email": "mae@email.com",
+              "date": "2023-06-07- 15:05"
+            },
+            {
+              "text": "Oi mãe, td bem?",
+              "email": "eu@email.com",
+              "date": "2023-06-07- 15:06"
+            }
+          ]
+        },
+        {
+          "user": "https://upload.wikimedia.org/wikipedia/commons/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg",
+          "name": "Elon Musk",
+          "email": "elonmusk@email.com",
+          "messages": [
+            {
+              "text": "Carlos preciso te falar uma coisa",
+              "email": "elonmusk@email.com",
+              "date": "2023-06-07- 15:05"
+            },
+            {
+              "text": "Eu sou um grande fã seu Carlos, eu me inspiro em você sempre, você é um gênio",
+              "email": "elonmusk@email.com",
+              "date": "2023-06-07- 15:07"
+            }
+          ]
+        },
+        {
+          "user": "https://upload.wikimedia.org/wikipedia/commons/1/18/Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg",
+          "name": "Mark",
+          "email": "mark@email.com",
+          "messages": [
+            {
+              "text": "Vem pra Meta Carlos",
+              "email": "mark@email.com",
+              "date": "2023-06-07- 15:07"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
